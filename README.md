@@ -2,9 +2,9 @@
 
 ## 🏠 Project Overview
 
-The **ALX Listing App** is a responsive Airbnb-style listing page developed as part of the ALX ProDev program. It is built using **Next.js**, **TypeScript**, and **Tailwind CSS**, with a focus on modern frontend architecture, reusable components, and a clean, scalable codebase.
+The **ALX Listing App** will be a responsive Airbnb-style listing page that would be developed as part of my ALX ProDev program. I will build it using **Next.js**, **TypeScript**, and **Tailwind CSS**, with a focus on modern frontend architecture, reusable components, and a clean, scalable codebase.
 
-The goal of this project is to provide a solid foundation for real-world applications by implementing a clone of an Airbnb listing interface, including cards, filtering, and responsive design features.
+The goal of this project is to establish a solid foundation for real-world applications by implementing a clone of an Airbnb listing interface, including cards, filtering, and responsive design features.
 
 ---
 
@@ -33,7 +33,7 @@ npm (comes with Node.js)
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/alx-listing-app.git
+git clone https://github.com/Sahe20/alx-listing-app.git
 cd alx-listing-app
 
 Install dependencies:
